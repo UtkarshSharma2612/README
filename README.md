@@ -37,4 +37,4 @@
     <a> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="vscode" width="50" height="50"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshSharma2612&theme=radical)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshSharma2612&show_icons=true&locale=en&layout=compact" alt="UtkarshSharma" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshSharma2612&show_icons=true&locale=en&layout=compact" alt="UtkarshSharma" /></p>
